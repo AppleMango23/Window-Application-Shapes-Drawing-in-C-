@@ -1,0 +1,10 @@
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\bin\Debug\AssignmentShapes.exe.config
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\bin\Debug\AssignmentShapes.exe
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\bin\Debug\AssignmentShapes.pdb
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\obj\Debug\AssignmentShapes.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\obj\Debug\AssignmentShapes.Properties.Resources.resources
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\obj\Debug\AssignmentShapes.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\obj\Debug\AssignmentShapes.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\obj\Debug\AssignmentShapes.exe
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\obj\Debug\AssignmentShapes.pdb
+C:\Users\Noah\source\repos\AssignmentShapes\AssignmentShapes\obj\Debug\AssignmentShapes.Form1.resources
